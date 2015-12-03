@@ -1,8 +1,9 @@
 # docker-example
 Example Docker project using NGINX &amp; Ubuntu
 
-# Start here on OSX to install the docker linux vm-ish
-https://docs.docker.com/v1.8/installation/mac/
+# Start here 
+- To use a GUI, install the [docker linux vm-ish](https://docs.docker.com/v1.8/installation/mac/)
+- To run Docker without a GUI, follow [these instructions](https://hackinggate.com/helloworld-docker-on-osx-without-boot2docker/) which use [Homebrew](http://brew.sh/)
 
 # After installing use the "Docker Quickstart Terminal" this will open a terminal
  - make a dir (mkdir mydockerexample)
